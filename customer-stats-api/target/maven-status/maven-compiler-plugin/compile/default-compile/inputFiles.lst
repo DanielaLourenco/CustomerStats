@@ -1,0 +1,14 @@
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\model\Request.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\repository\HourlyStatsDAO.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\model\Customer.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\service\StatsService.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\model\IpBlacklist.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\repository\UserAgentBlacklistDAO.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\service\ICustomerService.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\model\UserAgentBlacklist.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\SpringApp.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\repository\StatsDAO.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\repository\IpBlacklistDAO.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\model\HourlyStats.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\service\IStatsService.java
+C:\Users\Dani Lourenco\Documents\German Journey\AdClear\Customer-Stats-Web-API\customer-stats-api\src\main\java\customerstats\controller\StatsController.java
